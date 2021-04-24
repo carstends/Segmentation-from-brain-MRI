@@ -1,1 +1,1 @@
-# Segmentation-from-brain-MRI
+# Segmentation-from-Brain-MRI
